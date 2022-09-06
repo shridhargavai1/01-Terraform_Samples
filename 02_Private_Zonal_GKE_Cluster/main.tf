@@ -46,13 +46,13 @@ module "gke" {
   filestore_csi_driver       = false
   enable_private_endpoint    = false /* true for private */
   enable_private_nodes       = false /* true for private */
-  master_ipv4_cidr_block     = "172.16.0.0/28"
+  master_ipv4_cidr_block     = var.master_ip4_cidr
 
   node_pools = [
     {
       name                      = "default-node-pool"
       machine_type              = "e2-medium"
-      node_locations            = "us-east1-b"
+      node_locations            = var.tf_zone
       min_count                 = 1
       max_count                 = 2
       local_ssd_count           = 0
@@ -121,4 +121,5 @@ module "gke" {
       "default-node-pool",
     ]
   }
+  depends_on = [google_compute_network.main]
   }

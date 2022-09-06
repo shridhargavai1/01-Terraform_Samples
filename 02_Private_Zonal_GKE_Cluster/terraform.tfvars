@@ -11,4 +11,6 @@ subnetwork = "private-gke-subnet"
 ip_range_pods = "pod-ip"
 ip_range_services = "service-ip"
 compute_engine_service_account = "terraformserviceaccountgeneral@silent-text-358817.iam.gserviceaccount.com"
-
+master_ip4_cidr = "172.16.0.0/28"
+sec_pod_range = "192.168.0.0/18"
+sec_service_range = "192.168.64.0/18"

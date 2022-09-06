@@ -35,13 +35,13 @@ resource "google_compute_subnetwork" "main" {
 
   secondary_ip_range {
     range_name    = "pod-ip"
-    ip_cidr_range = "192.168.0.0/18"
+    ip_cidr_range = var.sec_pod_range
   }
 
   secondary_ip_range {
 
     range_name    = "service-ip"
-    ip_cidr_range = "192.168.64.0/18"
+    ip_cidr_range = var.sec_service_range
   }
 
   depends_on = [

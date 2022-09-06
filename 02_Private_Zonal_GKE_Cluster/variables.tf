@@ -58,3 +58,15 @@ variable "ip_range_services" {
 variable "compute_engine_service_account" {
   description = "Service account to associate to the nodes in the cluster"
 }
+
+variable "master_ip4_cidr" {
+  description = "Master IP CIDR range."
+}
+
+variable "sec_pod_range" {
+  description = "Secondary IP range for PODS."
+}
+
+variable "sec_service_range" {
+  description = "Secondary IP range for PODS."
+}
