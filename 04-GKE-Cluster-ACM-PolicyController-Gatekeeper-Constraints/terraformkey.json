@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stable-liberty-361719",
+  "private_key_id": "de014558b808e19efd49213d23326bdf11a921f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdLBcLKskT8ws6\nHAdRYX8uz+VDygVLzGeWrpGOLSo327jntN8atoUBYRXjJkV8fOul/T//SwPlyVAj\nPZc5v5gcZmNEUfWUYvI655PzwyaQ2tnzUWXUQK/VfFtchbDV0Jxw3rA28c2bKZ1K\nVKK4d/qxY/olvk4gyCO2NEdA1va4zsDWviHQG84hvVgOXNA4fDtAw5nmF+ucEMRU\nFCOhIaaYw53Vr1NA0fZ6UAo1YjGrMP+MfQYrU+fJqiTT/thukabn93Tih1ZjprTp\ni73JQ+RhcT75LQlOQp03l7dxhkvjut31C/LF3BZl4iLcSnq/PcMPslYrJTR4iXCA\nIr28mG59AgMBAAECggEAHe2kq5/tSDwL8Z/P1LEVAPxkWXU5nL1q6g6yxxKxAxCC\nN6Z3xzlaC6r7x3pLDlKoH5TCp3Ta8On6JF6l+0xEFNm9BoZxrRPrk9F46ZQngJQA\nyKZj2WIseP7ELSOxH2nEdZiIr1KuoBe0P1XvE/e2TnFJLPjQwSpb/MCbwLgl+DFP\nrHJh4wePG3uo0vpqtRTgP4XNhSKEBzj+p9skdPCqokSgLjXCp/tZNXv0TbKA9pOR\n9h7OoUE/ibiMfF0EmQahSPo4QT+lhZO27SOTprnPeZHO9BwNoDfdN7I9GoB1ffvL\nqCMSHW0C/szj+CviwfhzdR9pIURzXgzgVVrTR03EeQKBgQDuoD5sSTZig4M5ybz6\nM6INsYwRMmDLNwpQ8uFqqBZ7vAS72HWdKLkgGru+TY8UrS5ZmHBYVxv0pqhhVTrG\nEa72aBGsVcHFloMicbcbFiVq2MaiEh9R93dZEpxax+SYVfI3QnEgL2hClEiOQLa7\nQ9ZGhIe7mFOX69/Q1MgA+gpD5QKBgQDtRoaR3xnWxXFAqpcVfYkhqXShO8sgblk8\n1SBw0TuAzSKxJqEyPKvhaaCkroWfT2Kx6ceQaz1rN52NkvkD1ZCTT9sCYPCkUPI5\nTy20HpIH5vs1fvsEmdwPujfsbYsKezihKDs44Mu600jjrhA9M7xfP6lLPAyl3cPC\nSebpad4GuQKBgQDWtDnWRr13QCtXWIv/d2us9H45juGGlvxiP1bRF3I7XL3JooaY\npGaFW2hnXvOJQBU/KiiTY7VUmItSIFSkmI6bSKH2NKcHuFg/Kp/88B00mN2IP9QM\ndSPech9akxa8dkBcthyBQAaIOVFbJSEFN5FZm69g/Driq6mTBZD7R/7qfQKBgEFK\nsOkfDUsuVbXHu39sZfnfWXqsq36nHuNAeobQ7KDK0gsRaDYcv+dtW4k1hQuLmsr+\nW63/9Iy2ZyJ4GRHXCMugo9GJv25X3++pPBheeSy3gNT9tjFT7Vxej9j9Y89kjPa7\nzWAfa7BjR6FvWoSc4e8L45gSVCCoX5/tGh+MxE3xAoGAXSpg+bLoj8SvJnbUW36/\nbAgYkZEpk87PKwc1BnTL0uifsL4aF50K8DisChIXrmfCZnRsHKQOsz9R3Sgwh65K\n7Bo1o/WdRpXSNa3d+lF8RhzeRKgxSePqupUFtglnTgEeJA6lIS1abyOOZf+/3MBC\n4mJPZsqSwTa8L58RJ63hoPU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformserviceaccount@stable-liberty-361719.iam.gserviceaccount.com",
+  "client_id": "116793726732955002995",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformserviceaccount%40stable-liberty-361719.iam.gserviceaccount.com"
+}
